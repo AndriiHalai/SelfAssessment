@@ -49,9 +49,9 @@
   - Deprecated domain API
   - Node.js single executable: 🎓 known
   - Stream back pressure
-  - SharedArrayBuffer
-  - node:worker_threads
-  - node:child_process
+  - SharedArrayBuffer: 👂 heard
+  - node:worker_threads: 👂 heard
+  - node:child_process: 👂 heard
   - MessageChannel, MessagePort: 👂 heard
   - BroadcastChannel: 👂 heard
   - Generating crypto random UUID
@@ -59,7 +59,7 @@
   - node:assert: 🖐️ used
   - Internationalization
   - Blob, File, Buffer, node:buffer: 👂 heard
-  - Module node:zlib
+  - Module node:zlib: 👂 heard
 - Application structure and architecture
   - Isolation between layer
   - Multilayer approach: 🎓 known
@@ -106,8 +106,8 @@
   - Fetch API
   - IncomingMessage: 👂 heard
   - SQL injection: 🎓 known
-  - noDelay
-  - keep-alive
+  - noDelay: 👂 heard
+  - keep-alive: 👂 heard
   - ALPN
   - SNI callback
   - SSL certificates
@@ -165,6 +165,6 @@
   - Webassembly Rust
   - Webassembly Zig
   - Webassembly AssemblyScript
-  - Shared memory
+  - Shared memory: 👂 heard
   - SharedArrayBuffer
   - V8 binary serialization

@@ -7,10 +7,10 @@
   - Async I/O: 🎓 known
   - Thread pool: 🎓 known
   - Pattern Reactor: 👂 heard
-  - CAS operations
+  - CAS operations: 👂 heard
   - epoll
   - kqueue
-  - Completion ports
+  - Completion ports: 👂 heard
   - Event ports: 👂 heard
   - libuv: 🎓 known
   - Race conditions: 🎓 known
@@ -27,15 +27,15 @@
   - Thenable: 🎓 known
   - Promise: 🖐️ used
   - Async/await: 🖐️ used
-  - Future
-  - Deferred
-  - Sync generator
+  - Future: 👂 heard
+  - Deferred: 👂 heard
+  - Sync generator: 🎓 known
   - Async Generator: 🎓 known
   - Async Iterator: 🎓 known
   - Event: 🖐️ used
   - Coroutine
   - Goroutine
-  - Signal
+  - Signal: 👂 heard
   - Stream: 🎓 known
   - Chain of responsibility
   - Middleware: 🖐️ used
@@ -51,7 +51,7 @@
   - Observable/Observer: 🖐️ used
   - Readable: 🎓 known
   - Writable: 🎓 known
-  - Transform
+  - Transform: 👂 heard
   - Async Pool: 👂 heard
   - Async Queue: 👂 heard
   - Async Collector: 👂 heard
@@ -62,13 +62,13 @@
   - Timers: 🖐️ used
   - setImmediate: 🖐️ used
   - nextTick: 🖐️ used
-  - AbortController
-  - AbortSignal
+  - AbortController: 🎓 known
+  - AbortSignal: 🎓 known
   - Promise unhandled rejection: 🎓 known
   - Promise double resolve: 🎓 known
-  - child_process
-  - worker_threads
-  - Atomics
+  - child_process: 👂 heard
+  - worker_threads: 👂 heard
+  - Atomics: 🎓 known
   - High resolution clock
   - Callback hell: 🎓 known
   - Promise hell: 🎓 known
@@ -78,8 +78,8 @@
   - JSON: streaming serialization: 🖐️ used
   - promisify: 🖐️ used
   - callbackify: 🎓 known
-  - AsyncLocalStorage
-  - AsyncResource
+  - AsyncLocalStorage: 👂 heard
+  - AsyncResource: 👂 heard
 - Techniques
   - async.js library: 🖐️ used
   - RxJS library

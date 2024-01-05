@@ -6,17 +6,17 @@
   - Non-blocking: 🎓 known
   - Async I/O: 🎓 known
   - Thread pool: 🎓 known
-  - Pattern Reactor
+  - Pattern Reactor: 👂 heard
   - CAS operations
   - epoll
   - kqueue
   - Completion ports
-  - Event ports
+  - Event ports: 👂 heard
   - libuv: 🎓 known
   - Race conditions: 🎓 known
-  - Dead locks
-  - Live locks
-  - Concurrent programming
+  - Dead locks: 🎓 known
+  - Live locks: 🎓 known
+  - Concurrent programming: 👂 heard
   - Parallel programming: 👂 heard
   - Actor Model: 👂 heard
   - Thread: 🎓 known
@@ -36,7 +36,7 @@
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
+  - Stream: 🎓 known
   - Chain of responsibility
   - Middleware: 🖐️ used
   - Locks
@@ -64,8 +64,8 @@
   - nextTick: 🖐️ used
   - AbortController
   - AbortSignal
-  - Promise unhandled rejection
-  - Promise double resolve
+  - Promise unhandled rejection: 🎓 known
+  - Promise double resolve: 🎓 known
   - child_process
   - worker_threads
   - Atomics
@@ -83,7 +83,7 @@
 - Techniques
   - async.js library: 🖐️ used
   - RxJS library
-  - Async composition
+  - Async composition: 👂 heard
   - Promise.all: 🖐️ used
   - Promise.allSettled: 🎓 known
   - Promise.race: 🎓 known
